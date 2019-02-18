@@ -1,0 +1,2 @@
+# Pyramid-star
+Star triangle
